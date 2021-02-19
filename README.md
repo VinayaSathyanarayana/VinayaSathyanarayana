@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Experienced Leader in areas of Tech, Analytics, Data Mining, Mortgage & Payments. 
+API and Artificial Intelligence enabled Cloud Native New Product Development with Privacy and Security Built In.
+
+I focus on Engineering Excellence in Building Products
+
+
 <!--
 **VinayaSathyanarayana/VinayaSathyanarayana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
