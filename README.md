@@ -3,7 +3,7 @@
 Experienced Leader in areas of Tech, Analytics, Data Mining, Mortgage & Payments. 
 API and Artificial Intelligence enabled Cloud Native New Product Development with Privacy and Security Built In.
 
-I focus on Engineering Excellence in Building Products
+I focus on Engineering Excellence in Building Next Ganeration Cloud Native Products
 
 
 <!--
