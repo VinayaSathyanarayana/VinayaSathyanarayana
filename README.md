@@ -1,4 +1,4 @@
-### Hi there 👋
+### - 💬 I am 
 
 Experienced Leader in areas of Tech, Analytics, Data Mining, Mortgage & Payments. 
 API and Artificial Intelligence enabled Cloud Native New Product Development with Privacy and Security Built In.
