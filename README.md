@@ -14,7 +14,7 @@ build AI-natively.
 
 ### 🎓 Teaching
 Visiting faculty at **BITS Pilani (WILP), IIT Delhi (CTO Programme), SP Jain, IIIT Lucknow, IIMs** and others.
-About 30 courses and roughly **1,200 students through 350 GitHub-based team projects** since 2021:
+About 30 courses and **1,800+ students and 350 GitHub-based team projects**:
 Management of AI Products · FinTech · Digital Payments · API-Based Products · Cross Platform App Dev ·
 Software Engineering · Secure Software Engineering · Blockchain · Data Mining.
 
